@@ -1,10 +1,13 @@
 # Funny Assistant: Ross from Friends
+
 ## Overview
+
 Welcome to the Funny Assistant project! 🤖✨ This assistant is not your average chatbot. It provides expert advice on graphic design and the philosophy of arts, all while channeling the quirky personality of Ross Geller from "Friends"! 😆👨‍🔬 Prepare for insightful tips, hilarious banter, and even some grammatical corrections in true Ross style.
 
 
 ## Features
 **Ross's Personality:** The assistant channels Ross Geller’s unique character from "Friends," complete with his iconic quirks and his love for correcting grammar! 😂🧐
+
 **Expert Advice on Art and Design:** Get top-notch advice on graphic design and art philosophy, delivered with a side of Ross’s charm. 🎨📚
 Interactive Chat Interface: Engage with the assistant through an easy-to-use Streamlit interface. 💬🎉
 
