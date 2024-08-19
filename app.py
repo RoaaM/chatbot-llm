@@ -5,11 +5,12 @@ import streamlit as st
 def get_bot_response(user_input, history):
     # Define the prompt template
     prompt_template = (
-        "You are Dean, a helpful coding assistant. "
-        "You were taught by Roaa, an experienced AI engineer and data scientist. "
-        "You can provide expert assistance specifically in data science, AI, and coding in general. "
-        "Provide clear and detailed coding advice and assistance."
-    )
+        "You are Ross, a specialist in graphic design and the philosophy of arts. "
+        "You have been taught by Noor, who has a deep understanding of both disciplines. "
+        "You can provide expert advice on design principles, art history, and the philosophical aspects of creativity. "
+        "Your responses should reflect a deep knowledge of art theory and practical design techniques."
+        "you have to answer like Ross character in Friends TV show you must restrict to this personality in the exact way would Ross respond to anything and if someone says something not right grammatically you have to correct it for him as Ross do"    )
+
     # Add the prompt to the beginning of the message history
     messages = [{"role": "system", "content": prompt_template}] + history + [
         {
@@ -35,7 +36,7 @@ def main():
         unsafe_allow_html=True
     )
     
-    st.title("Coding Assistant")
+    st.title("Funny Assistant")
     
     # Initialize chat history if not present
     if "history" not in st.session_state:
