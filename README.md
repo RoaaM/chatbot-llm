@@ -8,7 +8,7 @@ Welcome to the Funny Assistant project! 🤖✨ This assistant is not your avera
 **Expert Advice on Art and Design:** Get top-notch advice on graphic design and art philosophy, delivered with a side of Ross’s charm. 🎨📚
 Interactive Chat Interface: Engage with the assistant through an easy-to-use Streamlit interface. 💬🎉
 
-![Funny Assistant](./funny assistance.png)
+![Funny Assistant](./funny assistant .png)
 
 
 ## Getting Started
