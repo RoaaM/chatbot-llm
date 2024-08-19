@@ -56,10 +56,10 @@ streamlit run app.py
 This will open the application in your web browser at http://localhost:8501.
 
 ## How It Works
-### Personality Restriction: The assistant's responses are crafted based on a prompt that strictly adheres to Ross Geller's personality from "Friends." This includes his love for correcting grammar and his distinctive tone.
-### Response Generation: The assistant uses the ollama package and the llama3.1 model to generate responses based on user input.
+**Personality Restriction:** The assistant's responses are crafted based on a prompt that strictly adheres to Ross Geller's personality from "Friends." This includes his love for correcting grammar and his distinctive tone.
+**Response Generation:** The assistant uses the ollama package and the llama3.1 model to generate responses based on user input.
 Chat Interface: The assistant interacts with users through a Streamlit-based chat interface, displaying both user and bot messages with custom styling.
 Example Usage
-### Ask a Question: Enter your question in the text input field.
+**Ask a Question:** Enter your question in the text input field.
 Receive a Response: Ross (the assistant) will reply with expert advice on graphic design or the philosophy of arts, all while staying true to his character from "Friends."
-### Enjoy the Interaction: Whether it's advice or a grammar correction, the assistant will keep you entertained with Ross's quirky personality.
+**Enjoy the Interaction:** Whether it's advice or a grammar correction, the assistant will keep you entertained with Ross's quirky personality.
