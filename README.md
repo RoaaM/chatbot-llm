@@ -50,7 +50,7 @@ The assistant uses the ollama package with the llama3.1 model to generate respon
 To start the Streamlit application, run the following command:
 
 ```sh
-streamlit run funny_assistant.py
+streamlit run app.py
 ```
 
 This will open the application in your web browser at http://localhost:8501.
